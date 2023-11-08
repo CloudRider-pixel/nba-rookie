@@ -1,0 +1,8 @@
+{
+    "name": "nba_rookie_autoMl_scorer_recall",
+    "implementation": "mlserver_sklearn.SKLearnModel",
+    "parameters": {
+        "uri": "nba_rookie_autoMl_scorer_recall.joblib",
+        "version": "v0.1.0"
+    }
+}
